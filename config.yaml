@@ -1,0 +1,5 @@
+index_base_path: ./index/
+experiment_name: stemmer_stopwords_qe
+stopwords: "terrier" # none or terrier
+stemmer: "porter" # none or porter
+qe_model: "Bo1"  # none or Bo1
